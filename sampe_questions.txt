@@ -1,0 +1,32 @@
+TrueFalse
+-Blue is a good color?
+
+Multiple Choice
+-What is your favorite color?
+
+Multiple Choice(with multiple answers)
+-What are 2 of your favorite colors?
+
+Short ResponseCorrectAnswer
+-What is your favorite day of the week?
+
+Short ResponseCorrectAnswer(with multiple answers)
+-What are the 2 best days of the week?
+
+Essay
+-What do you do in your free time?
+
+Essay (with multiple answers)
+-What are 2 reasons why your favorite season is the best?
+
+Date
+-What is today's date?
+
+Date(with multiple answer)
+-What are 2 dates in November?
+
+Matching
+-Match the team with the city
+A) Yankees  1) Philadelphia
+B) Phillies 2) New York
+C) Red Sox  3) Boston
