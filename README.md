@@ -1,6 +1,7 @@
 Run Driver.java in the Src folder.
 Java Version 11.0.8
 
+# Surveys
 1) 	
 	The surveys are saved into the "Surveys" directory after
 	saving them through the Menu.
@@ -20,7 +21,8 @@ Java Version 11.0.8
 	you will have to take a survey to have the 
 	program generate the directory to store a response.
 
-3) 	
+# Tests
+1) 	
 	The tests are saved into the "Tests" directory after
 	saving them through the Menu.
 
@@ -31,7 +33,7 @@ Java Version 11.0.8
 
 	You can load this test from the menu to display, modify, take, etc.
 
-4) 	
+2) 	
 	After taking each test, the response with be stored 
 	in the "Test Responses" directory. 
 
@@ -43,7 +45,3 @@ Java Version 11.0.8
 Note: Delete the "Surveys" and "Tests" directory
 to start fresh. The "Surveys" or "Tests" directory
 will be generated when the first survey/test is saved.
-
-Note: The "sampe_questions.txt"
-file include the questions I used to 
-create "Survey 1" and "Test 1. 
