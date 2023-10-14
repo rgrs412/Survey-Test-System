@@ -1,5 +1,8 @@
+
+## Running the program
 Run Driver.java in the Src folder.
-# Surveys
+
+## Surveys
 1) 	
 	The surveys are saved into the "Surveys" directory after
 	saving them through the Menu.
@@ -19,7 +22,7 @@ Run Driver.java in the Src folder.
 	you will have to take a survey to have the 
 	program generate the directory to store a response.
 
-# Tests
+## Tests
 1) 	
 	The tests are saved into the "Tests" directory after
 	saving them through the Menu.
