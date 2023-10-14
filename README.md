@@ -1,6 +1,4 @@
-Run Driver.java in the Src folder. <br>
-Java Version 11.0.8
-
+Run Driver.java in the Src folder.
 # Surveys
 1) 	
 	The surveys are saved into the "Surveys" directory after
