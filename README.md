@@ -2,6 +2,18 @@
 ## Running the program
 Run Driver.java in the Src folder.
 
+## Example images
+### Menu 1
+![Menu 1](/images/menu-1.png)
+
+### Survey Menu Options
+![Menu 1](/images/survey-menu.png)
+
+### Creating a survey
+![Menu 1](/images/create-a-survey.png)
+
+### Display a survey
+![Menu 1](/images/display-a-survey.png)
 ## Surveys
 1) 	
 	The surveys are saved into the "Surveys" directory after
